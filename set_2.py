@@ -1,6 +1,6 @@
-'''
-This is a re-submission due to improper .py formating
+# This is a re-submission due to improper .py formating
 
+'''
 Programming Set 2
 
 This assignment will develop your proficiency with Python's control flows.
